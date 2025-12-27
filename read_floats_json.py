@@ -3,6 +3,7 @@ Read float data from a JSON file.
 '''
 
 import json
+import random
 
 
 def create_json_data(filename):
@@ -23,7 +24,7 @@ def create_json_data(filename):
 
 
 def main():
-    pass
+    create_json_data("sensor.json")
 
 
 if __name__ == "__main__":

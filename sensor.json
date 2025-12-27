@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "sensor_name": "Sensor_563",
+        "temperature": 62.02,
+        "pressure": 3.8381,
+        "status_code": 200.0
+    },
+    {
+        "id": 2,
+        "sensor_name": "Sensor_169",
+        "temperature": 21.39,
+        "pressure": 4.0,
+        "status_code": 203.0
+    },
+    {
+        "id": 3,
+        "sensor_name": "Sensor_811",
+        "temperature": 22.93,
+        "pressure": 2.3943,
+        "status_code": 202.0
+    },
+    {
+        "id": 4,
+        "sensor_name": "Sensor_102",
+        "temperature": 20.29,
+        "pressure": 1.687,
+        "status_code": 202.0
+    },
+    {
+        "id": 5,
+        "sensor_name": "Sensor_336",
+        "temperature": 52.08,
+        "pressure": 1.5843,
+        "status_code": 204.0
+    },
+    {
+        "id": 6,
+        "sensor_name": "Sensor_541",
+        "temperature": 77.17,
+        "pressure": 1.5687,
+        "status_code": 203.0
+    },
+    {
+        "id": 7,
+        "sensor_name": "Sensor_497",
+        "temperature": 70.81,
+        "pressure": 1.3404,
+        "status_code": 204.0
+    },
+    {
+        "id": 8,
+        "sensor_name": "Sensor_786",
+        "temperature": 40.45,
+        "pressure": 3.8165,
+        "status_code": 204.0
+    },
+    {
+        "id": 9,
+        "sensor_name": "Sensor_707",
+        "temperature": 45.62,
+        "pressure": 4.0857,
+        "status_code": 203.0
+    },
+    {
+        "id": 10,
+        "sensor_name": "Sensor_310",
+        "temperature": 69.13,
+        "pressure": 3.7578,
+        "status_code": 201.0
+    },
+    {
+        "id": 11,
+        "sensor_name": "Sensor_135",
+        "temperature": 37.95,
+        "pressure": 3.6386,
+        "status_code": 204.0
+    },
+    {
+        "id": 12,
+        "sensor_name": "Sensor_225",
+        "temperature": 93.33,
+        "pressure": 3.6677,
+        "status_code": 201.0
+    },
+    {
+        "id": 13,
+        "sensor_name": "Sensor_662",
+        "temperature": 45.38,
+        "pressure": 2.1851,
+        "status_code": 200.0
+    },
+    {
+        "id": 14,
+        "sensor_name": "Sensor_759",
+        "temperature": 42.59,
+        "pressure": 2.7284,
+        "status_code": 204.0
+    },
+    {
+        "id": 15,
+        "sensor_name": "Sensor_896",
+        "temperature": 59.56,
+        "pressure": 4.3315,
+        "status_code": 203.0
+    },
+    {
+        "id": 16,
+        "sensor_name": "Sensor_613",
+        "temperature": 22.87,
+        "pressure": 1.7192,
+        "status_code": 200.0
+    },
+    {
+        "id": 17,
+        "sensor_name": "Sensor_479",
+        "temperature": 98.33,
+        "pressure": 2.559,
+        "status_code": 202.0
+    },
+    {
+        "id": 18,
+        "sensor_name": "Sensor_631",
+        "temperature": 64.84,
+        "pressure": 3.8058,
+        "status_code": 200.0
+    },
+    {
+        "id": 19,
+        "sensor_name": "Sensor_218",
+        "temperature": 95.15,
+        "pressure": 1.3687,
+        "status_code": 200.0
+    },
+    {
+        "id": 20,
+        "sensor_name": "Sensor_490",
+        "temperature": 74.87,
+        "pressure": 1.179,
+        "status_code": 201.0
+    },
+    {
+        "id": 21,
+        "sensor_name": "Sensor_146",
+        "temperature": 96.93,
+        "pressure": 3.576,
+        "status_code": 204.0
+    },
+    {
+        "id": 22,
+        "sensor_name": "Sensor_539",
+        "temperature": 74.32,
+        "pressure": 4.513,
+        "status_code": 201.0
+    },
+    {
+        "id": 23,
+        "sensor_name": "Sensor_484",
+        "temperature": 78.84,
+        "pressure": 1.3451,
+        "status_code": 202.0
+    },
+    {
+        "id": 24,
+        "sensor_name": "Sensor_186",
+        "temperature": 97.24,
+        "pressure": 4.8245,
+        "status_code": 202.0
+    },
+    {
+        "id": 25,
+        "sensor_name": "Sensor_858",
+        "temperature": 50.18,
+        "pressure": 4.7186,
+        "status_code": 203.0
+    },
+    {
+        "id": 26,
+        "sensor_name": "Sensor_250",
+        "temperature": 39.03,
+        "pressure": 3.9154,
+        "status_code": 202.0
+    },
+    {
+        "id": 27,
+        "sensor_name": "Sensor_950",
+        "temperature": 46.42,
+        "pressure": 1.4698,
+        "status_code": 200.0
+    },
+    {
+        "id": 28,
+        "sensor_name": "Sensor_954",
+        "temperature": 34.67,
+        "pressure": 3.3304,
+        "status_code": 203.0
+    },
+    {
+        "id": 29,
+        "sensor_name": "Sensor_962",
+        "temperature": 82.73,
+        "pressure": 4.7807,
+        "status_code": 202.0
+    },
+    {
+        "id": 30,
+        "sensor_name": "Sensor_756",
+        "temperature": 31.91,
+        "pressure": 1.8006,
+        "status_code": 203.0
+    }
+]
