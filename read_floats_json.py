@@ -5,10 +5,12 @@ Read float data from a JSON file.
 import json
 import random
 
+DATA_FILE_JSON = "sensor.json"
 
-def create_json_data(filename):
+
+def create_json_data(filename, no_of_rows=30):
     data = []
-    for i in range(1, 31):
+    for i in range(1, no_of_rows+1):
         data.append({
             "id": i,
             "sensor_name": f"Sensor_{random.randint(100, 999)}",
@@ -24,7 +26,7 @@ def create_json_data(filename):
 
 
 def main():
-    create_json_data("sensor.json")
+    create_json_data(DATA_FILE_JSON)
 
 
 if __name__ == "__main__":
